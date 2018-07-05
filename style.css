@@ -3,6 +3,7 @@ form{
     border: 1px inset black;
     border-radius: 15px;
     margin: 2em 18em;
+    padding-bottom: 1em;
 }
 p{
     border: 1px solid black;
